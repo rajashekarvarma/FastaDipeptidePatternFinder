@@ -16,3 +16,5 @@
 Defining output file(currently only csv is supported) is an option if the output file name is not provided the output will be written to output.csv in the working directory.
 
 #### python FastaDipeptidePatternFinder.py -h           ### for help
+
+Note: example test fasta file (protein.fa) has been provided to run code
